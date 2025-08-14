@@ -91,13 +91,13 @@ export default function Header() {
                             ) : (
                                 <>
                                     <Link
-                                        to={"auth/login"}
+                                        to={"/auth/login"}
                                         className="LogInBtn"
                                     >
                                         Log In
                                     </Link>
                                     <Link
-                                        to={"auth/signup"}
+                                        to={"/auth/signup"}
                                         className="SignUpBtn"
                                     >
                                         Sign Up

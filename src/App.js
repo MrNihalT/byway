@@ -16,7 +16,7 @@ function App() {
                 <Route path="/wishlist" element={<WishList />} />
                 <Route path="/cart" element={<Cart />} />
                 <Route path="/notfication" element={<Notfication />} />
-                <Route path="auth/login" element={<Login />} />
+                <Route path="/auth/login" element={<Login />} />
                 <Route path="auth/signup" element={<Signup />} />
                 <Route path="/product/:id" element={<ProductSingle />} />
             </Routes>
