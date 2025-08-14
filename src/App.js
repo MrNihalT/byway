@@ -1,6 +1,6 @@
 import "./App.css";
 import Product from "./components/screens/Product";
-import { Route, BrowserRouter, Routes } from "react-router-dom";
+import { Route, HashRouter, Routes } from "react-router-dom";
 import WishList from "./components/screens/WishList";
 import Cart from "./components/screens/Cart";
 import Notfication from "./components/screens/Notfication";
@@ -10,19 +10,17 @@ import ProductSingle from "./components/screens/ProductSingle";
 
 function App() {
     return (
-        <>
-            <BrowserRouter>
-                <Routes>
-                    <Route path="/" element={<Product />} />
-                    <Route path="/wishlist" element={<WishList />} />
-                    <Route path="/cart" element={<Cart />} />
-                    <Route path="/notfication" element={<Notfication />} />
-                    <Route path="auth/login" element={<Login />} />
-                    <Route path="auth/signup" element={<Signup />} />
-                    <Route path="/product/:id" element={<ProductSingle />} />
-                </Routes>
-            </BrowserRouter>
-        </>
+        <HashRouter>
+            <Routes>
+                <Route path="/" element={<Product />} />
+                <Route path="/wishlist" element={<WishList />} />
+                <Route path="/cart" element={<Cart />} />
+                <Route path="/notfication" element={<Notfication />} />
+                <Route path="auth/login" element={<Login />} />
+                <Route path="auth/signup" element={<Signup />} />
+                <Route path="/product/:id" element={<ProductSingle />} />
+            </Routes>
+        </HashRouter>
     );
 }
 
