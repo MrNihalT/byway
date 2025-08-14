@@ -1,0 +1,102 @@
+[
+    {
+        "seller_name": "James",
+        "product_type": "women's clothing",
+        "total_rating": 3.8,
+        "total_customers": 679,
+        "image": "https://static.vecteezy.com/system/resources/previews/005/346/410/non_2x/close-up-portrait-of-smiling-handsome-young-caucasian-man-face-looking-at-camera-on-isolated-light-gray-studio-background-photo.jpg",
+        "reviews": "40,445",
+        "total_products": "40 products",
+        "quote": "With years of experience in digital commerce, Lisa has mastered the art of interpreting customer behavior through online interactions. Her approach focuses on using subtle user signals—like time on page and click paths—to tailor personalized shopping experiences that truly resonate."
+    },
+    {
+        "seller_name": "Sulaiman",
+        "product_type": "men's clothing",
+        "total_rating": 4.7,
+        "total_customers": 500,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbbIJbnYAcPg-0KzF60JvJXn0agCpYCJQyAfUD28InP0LFuxc_KjDXBGAK7T2vcFZubF0&usqp=CAU",
+        "reviews": "85,235",
+        "total_products": "63 products",
+        "quote": "Though you may never meet your online customer face-to-face, their actions speak volumes. From abandoned carts to product wishlists, every move offers insights into their needs. Understanding these digital footprints is what transforms browsing into buying."
+    },
+    {
+        "seller_name": "Michael",
+        "product_type": "men's clothing",
+        "total_rating": 2.1,
+        "total_customers": 430,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm62PTAHTSRM-QJUxFrWHWmXSbFtsMw-KEl1c6yQ95Xz0fog_drClPheZzwymGPFRDkkg&usqp=CAU",
+        "reviews": "59,235",
+        "total_products": "54 products",
+        "quote": "In the world of online selling, visibility goes beyond images and descriptions. It's about anticipating your customer's next step, optimizing their journey, and creating a space where trust is built through intuitive design and consistent value."
+    },
+    {
+        "seller_name": "Sinan",
+        "product_type": "jewelery",
+        "total_rating": 3.0,
+        "total_customers": 400,
+        "image": "https://static.vecteezy.com/system/resources/previews/049/174/246/non_2x/a-smiling-young-indian-man-with-formal-shirts-outdoors-photo.jpg",
+        "reviews": "33,745",
+        "total_products": "52 products",
+        "quote": "Selling online is more than just having the right product—it’s about truly seeing your customer without ever meeting them. By analyzing behavior, offering relevant recommendations, and responding to feedback, you create a virtual presence that feels human."
+    },
+    {
+        "seller_name": "Alan Pranav",
+        "product_type": "electronics",
+        "total_rating": 4.8,
+        "total_customers": 400,
+        "image": "https://t4.ftcdn.net/jpg/02/14/74/61/360_F_214746128_31JkeaP6rU0NzzzdFC4khGkmqc8noe6h.jpg",
+        "reviews": "70,745",
+        "total_products": "61 products",
+        "quote": "Every interaction on your online store—no matter how small—is a form of communication. The way customers scroll, hover, and navigate reveals what they value. Reading between those digital lines helps you serve them better than any sales pitch ever could."
+    },
+    {
+        "seller_name": "Safwan Samad",
+        "product_type": "jewelery",
+        "total_rating": 4.6,
+        "total_customers": 400,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScU6JYH7odpHDva_owRNL43Kob3TIRtrd7Ww&s",
+        "reviews": "10,245",
+        "total_products": "11 products",
+        "quote": "A successful online seller knows that data is more than numbers—it's the story of your customer. Understanding their journey, needs, and hesitations allows you to build not just a transaction, but a relationship rooted in trust and convenience."
+    },
+    {
+        "seller_name": "Andrew Samuel",
+        "product_type": "men's clothing",
+        "total_rating": 4.1,
+        "total_customers": 259,
+        "image": "https://t3.ftcdn.net/jpg/02/00/90/24/360_F_200902415_G4eZ9Ok3Ypd4SZZKjc8nqJyFVp1eOD6V.jpg",
+        "reviews": "36,445",
+        "total_products": "34 products",
+        "quote": "Even when customers never step into a physical store, they expect to feel seen and understood. Smart sellers craft every page, product, and message to reflect that expectation—making the digital feel deeply personal."
+    },
+    {
+        "seller_name": "Joseph Mundasheri",
+        "product_type": "women's clothing",
+        "total_rating": 2.6,
+        "total_customers": 235,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShzopqIxlqe3k4qBHHtzDeGL84DkwfG-VAag&s",
+        "reviews": "11,445",
+        "total_products": "17 products",
+        "quote": "Digital sales thrive when human insight meets smart analytics. You may never see your customers’ faces, but understanding their behavior, preferences, and feedback lets you connect with them on a deeper, more profitable level."
+    },
+    {
+        "seller_name": "Andrew Samuel",
+        "product_type": "men's clothing",
+        "total_rating": 4.1,
+        "total_customers": 259,
+        "image": "https://t3.ftcdn.net/jpg/02/00/90/24/360_F_200902415_G4eZ9Ok3Ypd4SZZKjc8nqJyFVp1eOD6V.jpg",
+        "reviews": "21,445",
+        "total_products": "41 products",
+        "quote": "The most effective online stores are built on empathy, not just algorithms. By paying close attention to how users engage, what they ignore, and where they struggle, you begin to see your customers more clearly than any in-person interaction could allow."
+    },
+    {
+        "seller_name": "Michael",
+        "product_type": "men's clothing",
+        "total_rating": 2.1,
+        "total_customers": 430,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm62PTAHTSRM-QJUxFrWHWmXSbFtsMw-KEl1c6yQ95Xz0fog_drClPheZzwymGPFRDkkg&usqp=CAU",
+        "reviews": "30,445",
+        "total_products": "70 products",
+        "quote": "Even when customers never step into a physical store, they expect to feel seen and understood. Smart sellers craft every page, product, and message to reflect that expectation—making the digital feel deeply personal."
+    }
+]
